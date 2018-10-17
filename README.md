@@ -2,7 +2,7 @@ Nairobi Routes is a Google Appengine hosted app that display all of the bus and 
 
 Check it out at http://nairobi-routes.appspot.com
 
-##**API**
+## **API**
 It also has a rudimentary read-only API:
 
 1.GET /routes/road - list all road routes.
@@ -17,11 +17,11 @@ It also has a rudimentary read-only API:
 
 6.GET /stops/rail/<route-name> - return all stops along a rail route.
 
-##**Credits**
+## **Credits**
 Based on GTFS data collected by the Digital Matatus project (http://www.digitalmatatus.com/)
 
-#**Pull Requests**
+# **Pull Requests**
 Pull requests are welcome! 
 
-#**License**
+# **License**
 Released under the MIT license.
